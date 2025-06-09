@@ -1,5 +1,5 @@
 # Fine-Tuned-LLaMA-2-Based-Domain-Chatbot-for-Technical-Support
-Bu proje, Meta'nın LLaMA 2 dil modelini ince ayar (fine-tuning) yöntemiyle eğiterek belirli bir alana özel teknik destek sohbet botu oluşturmayı amaçlamaktadır. Projenin temel hedefi, sohbet botunun ürünle ilgili sorulara daha doğru ve bağlama uygun şekilde yanıt verebilmesini sağlamak için özelleştirilmiş destek kayıtları, kullanım kılavuzları ve sıkça sorulan sorular (SSS) verileriyle eğitilmesidir.
+## 📌 Bu proje, Meta'nın LLaMA 2 dil modelini ince ayar (fine-tuning) yöntemiyle eğiterek belirli bir alana özel teknik destek sohbet botu oluşturmayı amaçlamaktadır. Projenin temel hedefi, sohbet botunun ürünle ilgili sorulara daha doğru ve bağlama uygun şekilde yanıt verebilmesini sağlamak için özelleştirilmiş destek kayıtları, kullanım kılavuzları ve sıkça sorulan sorular (SSS) verileriyle eğitilmesidir.
 
 📌 Overview
 This project aims to fine-tune Meta’s LLaMA 2 language model to build a domain-specific technical support chatbot. The primary goal is to enhance the chatbot’s ability to respond to product-related inquiries using custom support logs, manuals, and FAQ data.
